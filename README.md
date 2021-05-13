@@ -15,7 +15,7 @@
   - Excel file must be there for us to cross-check the image shown on readme (no image = no score)
 
 ## Solution:  
-**[https://github.com/arghya05/arghya05-END2.0_Session-2/blob/main/NN%20Training.xlsxl](as)**
+**[arghya05/arghya05-END2.0_Session-2](as)**
 
   - Explain each major step
 
